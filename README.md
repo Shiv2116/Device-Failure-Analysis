@@ -3,24 +3,30 @@
 
 ## 📌 Problem Definition
 
-A company has a fleet of devices transmitting daily
-sensor readings. They would like to create a predictive maintenance
-solution to proactively identify when maintenance should be
-performed. This approach promises cost savings over routine or time based preventive maintenance, because tasks are performed only when
-warranted. 
+A company has a fleet of devices transmitting daily sensor readings. They would like to create a predictive maintenance solution to proactively identify when maintenance should be performed. This approach promises cost savings over routine or time based preventive maintenance, because tasks are performed only when warranted. 
+
+<br>
+
+## 🎯 Goal
+The task is to  build a predictive model using machine learning to predict the probability of a device failure. When building this model, be sure to minimize false positives and false negatives. The column you are trying to Predict is called failure with binary value 0 for non-failure and 1 for failure.
+
+<br>
+
+## 📓 Overview
+
+| Machine Learning Models Applied            | Accuracy |
+| ----------------- | ------------------------------------------------------------------ |
+| Logistic Regression | 92.59% |
+| Logistic Regression with Hyperparameter Tuning | 93.16% |
+| K - Nearest Neighbour | 94.87% |
+
+<br>
 
 ## ✍️ Authors
 
 - [Himanshu Agarwal](https://github.com/himanshu-03)
 - [Yash Jain](https://github.com/yash-jain-07)
-
-
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agarwal-himanshu)
-
-
+<br>
 
 ## 🪪 License
 
