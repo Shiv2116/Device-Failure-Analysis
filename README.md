@@ -26,6 +26,7 @@ The task is to  build a predictive model using machine learning to `predict` the
 
 - [Himanshu Agarwal](https://github.com/himanshu-03)
 - [Yash Jain](https://github.com/yash-jain-07)
+- [Shiv Dixit](https://github.com/Shiv2116)
 <br>
 
 ## 🔗 Links
